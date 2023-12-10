@@ -5,7 +5,7 @@ export default {
   site: {
     siteMetadata: {
       url: "https://www.lumen.local",
-      title: "Blog by John Doe",
+      title: "Blog by Tate Kim",
       subtitle:
         "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
       copyright: "All rights reserved.",

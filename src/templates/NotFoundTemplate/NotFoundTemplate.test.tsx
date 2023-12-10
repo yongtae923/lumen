@@ -31,10 +31,10 @@ describe("NotFoundTemplate", () => {
 
     expect(testUtils.getMeta("twitter:card")).toEqual("summary_large_image");
     expect(testUtils.getMeta("twitter:title")).toEqual(
-      "Not Found - Blog by John Doe",
+      "Not Found - Blog by Tate Kim",
     );
     expect(testUtils.getMeta("og:title")).toEqual(
-      "Not Found - Blog by John Doe",
+      "Not Found - Blog by Tate Kim",
     );
     expect(testUtils.getMeta("description")).toEqual(
       "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",

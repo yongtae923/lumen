@@ -32,9 +32,9 @@ describe("TagsTemplate", () => {
 
     expect(testUtils.getMeta("twitter:card")).toEqual("summary_large_image");
     expect(testUtils.getMeta("twitter:title")).toEqual(
-      "Tags - Blog by John Doe",
+      "Tags - Blog by Tate Kim",
     );
-    expect(testUtils.getMeta("og:title")).toEqual("Tags - Blog by John Doe");
+    expect(testUtils.getMeta("og:title")).toEqual("Tags - Blog by Tate Kim");
     expect(testUtils.getMeta("description")).toEqual(
       "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
     );
